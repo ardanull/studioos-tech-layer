@@ -31,8 +31,6 @@ src/
     analytics/
 ```
 
-## StudioOS’a ekleme
-
 - `src/core/**` → core katmanı
 - `src/features/**` → feature boundary örnekleri
 - `src/plugins/**` → plugin örnekleri
