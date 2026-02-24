@@ -7,8 +7,6 @@ Bu repo, StudioOS benzeri bir Next.js/TypeScript projeye **eklenebilir** şekild
 - ✅ **Orchestration**: state/render bildirimlerini frame bazlı batch + priority ile yönetme
 - ✅ **Scalable architecture**: Ports & Adapters (DI ile altyapı soyutlama)
 
-> Not: Bu örnek, bağımsız bir “paket” gibi de kullanılabilir. StudioOS içine taşımak için `src/` altındaki klasörleri projenize kopyalamanız yeterli.
-
 ## Hızlı Başlangıç
 
 ```bash
