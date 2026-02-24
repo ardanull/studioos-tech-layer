@@ -1,0 +1,17 @@
+{
+  "name": "studioos-tech-layer",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "lint": "echo \"(optional) add eslint boundaries rules\"",
+    "typecheck": "tsc -p tsconfig.json --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "zustand": "^4.5.5"
+  }
+}
